@@ -52,6 +52,10 @@
             "AWSSDK.S3": {
               "target": "Package",
               "version": "[3.7.407.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[3.0.3, )"
             }
           },
           "imports": [

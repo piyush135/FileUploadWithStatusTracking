@@ -1,7 +1,9 @@
 ﻿using Amazon.S3;
 using Amazon.S3.Model;
+using log4net;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Concurrent;
+using System.Reflection;
 
 namespace API_for_Uploading_Large_Files.Controllers
 {
@@ -12,7 +14,7 @@ namespace API_for_Uploading_Large_Files.Controllers
         private readonly IConfiguration _configuration;
         private readonly IAmazonS3 _s3Client;
         private readonly string _bucketName;
-
+        private static readonly ILog Logger = LogManager.GetLogger(MethodBase.GetCurrentMethod().DeclaringType);
         public FileUploadTrackController(IConfiguration configuration, IAmazonS3 s3Client)
         {
             _configuration = configuration;
@@ -77,6 +79,7 @@ namespace API_for_Uploading_Large_Files.Controllers
                 }
                 catch (Exception ex)
                 {
+                    Logger.Error("File Upload with track error " + ex.ToString());
                     // Log exception and set status to failed
                     //_logger.LogError(ex, "Error during file upload for ID: {ProcessingId}", processingId);
                     _fileStatus[processingId] = "Failed";

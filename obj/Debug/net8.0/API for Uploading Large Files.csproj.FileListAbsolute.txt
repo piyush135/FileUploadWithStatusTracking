@@ -33,3 +33,10 @@ C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading
 C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.csproj.AssemblyReference.cache
 C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for .909AD121.Up2Date
 C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\log4net.config
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\log4net.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.sourcelink.json

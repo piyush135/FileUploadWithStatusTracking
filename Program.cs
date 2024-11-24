@@ -2,7 +2,10 @@ using Amazon;
 using Amazon.Runtime;
 using Amazon.S3;
 using API_for_Uploading_Large_Files;
+using log4net;
+using log4net.Config;
 using Microsoft.AspNetCore.Http.Features;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -27,6 +30,11 @@ builder.Services.Configure<FormOptions>(options =>
 {
     options.MultipartBodyLengthLimit = 104857600; // 100 MB
 });
+
+// Configure log4net
+// Load log4net configuration
+var log4netConfig = new FileInfo("log4net.config");
+XmlConfigurator.Configure(log4net.LogManager.GetRepository(), log4netConfig);
 
 var app = builder.Build();
 
