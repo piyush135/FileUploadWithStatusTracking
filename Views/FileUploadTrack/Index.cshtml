@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "File Upload Tracker";
+}
+
+<h2>File Upload with Tracking</h2>
+
+<!-- File Upload Form -->
+<form id="fileUploadForm" method="post" enctype="multipart/form-data" action="/FileUploadTrack/Upload">
+    <div>
+        <label for="uploadedFile">Select a file:</label>
+        <input type="file" id="uploadedFile" name="uploadedFile" required />
+    </div>
+    <div>
+        <button type="submit">Upload</button>
+    </div>
+</form>
+
+<!-- Status Tracking Section -->
+<div id="statusDiv" style="margin-top:20px;">
+    <h3>Upload Status</h3>
+    <p id="statusText">No file uploaded yet.</p>
+</div>
+
+<script>
+    const form = document.getElementById("fileUploadForm");
+
+    form.onsubmit = async function (e) {
+        e.preventDefault();
+
+        const formData = new FormData(form);
+
+        // Send file to the Upload endpoint
+        const response = await fetch("/FileUploadTrack/Upload", {
+            method: "POST",
+            body: formData
+        });
+
+        if (response.ok) {
+            const result = await response.json();
+            const processingId = result.processingId;
+            document.getElementById("statusText").textContent = `File uploaded. Tracking ID: ${processingId}`;
+            trackStatus(processingId);
+        } else {
+            document.getElementById("statusText").textContent = "Upload failed.";
+        }
+    };
+
+    async function trackStatus(processingId) {
+        const interval = setInterval(async () => {
+            const statusResponse = await fetch(`/FileUploadTrack/Status/${processingId}`);
+            if (statusResponse.ok) {
+                const statusData = await statusResponse.json();
+                document.getElementById("statusText").textContent = `Status: ${statusData.status}`;
+                if (statusData.status === "Completed" || statusData.status === "Failed") {
+                    clearInterval(interval);
+                }
+            }
+        }, 2000); // Poll every 2 seconds
+    }
+</script>

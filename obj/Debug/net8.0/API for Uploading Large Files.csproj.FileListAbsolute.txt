@@ -1,0 +1,42 @@
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\appsettings.json
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\API for Uploading Large Files.staticwebassets.runtime.json
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\API for Uploading Large Files.exe
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\API for Uploading Large Files.deps.json
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\API for Uploading Large Files.runtimeconfig.json
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\API for Uploading Large Files.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\API for Uploading Large Files.pdb
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.AssemblyInfoInputs.cache
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.AssemblyInfo.cs
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.csproj.CoreCompileInputs.cache
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.RazorAssemblyInfo.cache
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.RazorAssemblyInfo.cs
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\staticwebassets\msbuild.API for Uploading Large Files.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\staticwebassets\msbuild.build.API for Uploading Large Files.props
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API for Uploading Large Files.props
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API for Uploading Large Files.props
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\scopedcss\bundle\API for Uploading Large Files.styles.css
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\scopedcss\projectbundle\API for Uploading Large Files.bundle.scp.css
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\refint\API for Uploading Large Files.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.pdb
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.genruntimeconfig.cache
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\ref\API for Uploading Large Files.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\AWSSDK.S3.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.csproj.AssemblyReference.cache
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for .909AD121.Up2Date
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\AWSSDK.Extensions.NETCore.Setup.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\log4net.config
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\log4net.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\icsssd0336\source\repos\API for Uploading Large Files\API for Uploading Large Files\obj\Debug\net8.0\API for Uploading Large Files.sourcelink.json
