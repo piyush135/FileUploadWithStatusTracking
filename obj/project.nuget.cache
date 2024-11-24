@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lD7ZE/pnorLNvVNcJjfHXXnS29S64ZMWZWzlN0bugpnnu5KDTdSspAhQd11iLAaZmGf65u51W9HCGa34U9Jcsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\icsssd0336\\source\\repos\\API for Uploading Large Files\\API for Uploading Large Files\\API for Uploading Large Files.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\icsssd0336\\.nuget\\packages\\awssdk.core\\3.7.400.57\\awssdk.core.3.7.400.57.nupkg.sha512",
+    "C:\\Users\\icsssd0336\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.301\\awssdk.extensions.netcore.setup.3.7.301.nupkg.sha512",
+    "C:\\Users\\icsssd0336\\.nuget\\packages\\awssdk.s3\\3.7.407.1\\awssdk.s3.3.7.407.1.nupkg.sha512",
+    "C:\\Users\\icsssd0336\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\icsssd0336\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\icsssd0336\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\icsssd0336\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\icsssd0336\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
