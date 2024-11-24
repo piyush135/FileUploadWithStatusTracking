@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API for Uploading Large Files")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34cfb729ef38fae92ef8a45cad68aa09fdc6a135")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1f63cc45dc1a1eb4f03e34b459bb840f1d2cc98")]
 [assembly: System.Reflection.AssemblyProductAttribute("API for Uploading Large Files")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API for Uploading Large Files")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
