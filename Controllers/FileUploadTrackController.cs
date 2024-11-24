@@ -91,7 +91,7 @@ namespace API_for_Uploading_Large_Files.Controllers
         }
 
         // GET: Track the Status of File Processing
-        [HttpGet("status/{processingId}")]
+        //[HttpGet("status/{processingId}")]
         public IActionResult TrackStatus(Guid processingId)
         {
             // Check if the processing ID exists
